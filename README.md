@@ -29,9 +29,7 @@
 - 🧪 Working on projects in **anti-spoofing detection and cloud security**
 - 🎯 My goal: **Bridge academic knowledge with real-world cybersecurity applications**
 - 🤝 I’m always eager to **collaborate, learn, and explore emerging cybersecurity trends**
-- 📫 Reach me at: <a href="mailto:ah.alaamobarak@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40" />
-  </a>
+
 
 <h3 align="left">Reach me at:</h3>
 <p align="left">
