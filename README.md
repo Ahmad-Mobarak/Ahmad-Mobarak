@@ -16,9 +16,6 @@
   <a href="mailto:ah.alaamobarak@gmail.com">
     <img src="https://img.shields.io/badge/Email-ah.alaamobarak@gmail.com-red?style=flat" alt="Email Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmedalaamobarak" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge" />
-  </a>
 </p>
 
 <p align="left">
