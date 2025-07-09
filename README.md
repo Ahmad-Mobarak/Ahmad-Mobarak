@@ -36,6 +36,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:ah.alaamobarak@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40" />
+  </a>
   <a href="https://www.linkedin.com/in/ahmedalaamobarak" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
@@ -63,7 +66,10 @@
   </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad-mobarak&show_icons=true&locale=en&layout=compact" alt="ahmad-mobarak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad-mobarak&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats" />
+</p>
