@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ahmed Mobarak</h1>
-<h3 align="center">Final-year Cybersecurity Student & Threat Detection Enthusiast | Egypt</h3>
+<h3 align="center">Cybersecurity Student | DEPI Scholar | Threat Detection Enthusiast</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="banner" />
@@ -18,36 +18,71 @@
 ---
 
 ## 🌟 About Me  
-- 🔍 Passionate about **threat detection, malware analysis, and SIEM operations**  
-- 🛠 Building skills in **Microsoft Sentinel, KQL, Splunk, and open-source malware analysis frameworks**  
-- 🧪 Working on projects in **anti-spoofing detection and cloud security**  
-- 🎯 Goal: **Bridge academic knowledge with real-world cybersecurity applications**  
-- 🤝 Always eager to **collaborate, learn, and explore emerging cybersecurity trends**  
-
----
+- 🎓 Currently a scholar at the **Digital Egypt Pioneers Initiative (DEPI)**.
+- 🔍 Focused on **Penetration Testing, Network Security, and Embedded Systems**.  
+- 🛠 Experienced in **Metasploit, Nmap, Snort**, and Python automation.  
+- 🧪 Integrating **Computer Vision** and **IoT** into security contexts (OpenCV & Arduino).  
+- 🎯 Goal: **Securing Cyber-Physical Systems (CPS) and Critical Infrastructure.**
+- 🤝 Always eager to **collaborate on Red Teaming and Malware Analysis projects.**
 
 ## 🛠 Technical Skills  
 
-### Programming & Security  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
-### Cybersecurity Tools  
-![Microsoft Sentinel](https://img.shields.io/badge/Azure%20Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
+### 🛡️ Cybersecurity Operations
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=flat&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-blue?style=flat&logo=nmap&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-EF3B2D?style=flat&logo=snort&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Azure%20Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white) 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)  
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)  
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)  
+
+### ⚙️ Embedded & Libraries
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ---
 
-## 📌 Projects  
+## 📌 Featured Projects  
 
-- 🧪 **Malware Analysis Sandbox** → Isolated VM-based environment for analyzing malware behavior (process, file system, registry, and network activity).  
-- 🔐 **Network Security Project (NTI Internship)** → Designed & implemented secure networks using VLANs, ACLs, OSPF, VPN, and firewall policies.  
-- ☁️ **Cloud Security Lab** → Hands-on experiments with **Sentinel, Splunk, and SIEM rules** for incident detection & response.  
+### 🕵️‍♂️ [Shadow-Logger](https://github.com/Ahmad-Mobarak/Shadow-Logger)
+*A stealthy Python-based keylogger developed for educational red-teaming.*
+- Captures keystrokes and logs activity to demonstrate spyware mechanics.
+- Features background execution and local log storage.
+- *Designed to study endpoint monitoring and malware behavior patterns.*
+
+### 🔐 [Network Security Project (NTI Internship)](https://github.com/Ahmad-Mobarak/Network-Security-Project-NTI)
+*Enterprise network design and hardening.*
+- Designed & implemented secure networks using **VLANs, ACLs, and OSPF**.
+- Configured **VPNs and Firewall policies** to secure internal traffic.
+- Simulated real-world network segmentation scenarios.
+
+### 🚩 **Metasploitable 2: Full System Compromise**
+*A comprehensive penetration testing project demonstrating the complete kill chain.*
+- Conducted reconnaissance using **Nmap** to identify open ports and service versions.
+- Exploited vulnerabilities (VSFTPD, Samba) using **Metasploit Framework**.
+- Executed privilege escalation to gain root access and documented the reporting phase.
+
+### ⛓️ **Secure Socket Blockchain Simulation**
+*Network programming project focusing on secure data transmission.*
+- Developed a client-server architecture using **Python Socket Programming**.
+- Deployed on a **Raspberry Pi-based Blockchain Training Kit (BEDO®)**.
+- Simulated block validation and decentralized communication protocols.
+
+### 🚦 **Smart Traffic Control System**
+- Automated traffic light logic using **Arduino/C++** and state-machines on Tinkercad.
+
+### 🧪 **Labs & Research**
+- **Malware Analysis Sandbox** → Isolated VM-based environment for analyzing malware behavior (process, file system, registry, and network activity).  
+- **Cloud Security Lab** → Hands-on experiments with **Sentinel, Splunk, and SIEM rules** for incident detection & response.  
 
 ---
 
@@ -81,6 +116,5 @@
   </a>
 </p>
 
-
 ---
-⭐ **Cybersecurity learner | Threat detection enthusiast | Open to collaboration**
+⭐ **Penetration Tester | DEPI Scholar | Embedded Security**
