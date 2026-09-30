@@ -96,10 +96,9 @@
 <div align="center">
 
 # 📊 GitHub Stats
-
-<img src="https://github-readme-stats.shion.dev/api?username=Ahmad-Mobarak&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
-<br/>
 <img src="https://streak-stats.demolab.com/?user=Ahmad-Mobarak&theme=dark&hide_border=false" height="150" />
+<br/>
+<img src="https://github-readme-stats.shion.dev/api?username=Ahmad-Mobarak&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
 <br/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmad-Mobarak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
 
