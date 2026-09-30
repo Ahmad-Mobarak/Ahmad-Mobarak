@@ -93,19 +93,18 @@
 - **Cloud Security Lab** → Hands-on experiments with **Sentinel, Splunk, and SIEM rules** for incident detection & response.  
 
 ---
+<div align="center">
 
-## 📊 GitHub Stats  
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-mobarak&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-mobarak&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.shion.dev/api?username=Ahmad-Mobarak&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
+<br/>
+<img src="https://streak-stats.demolab.com/?user=Ahmad-Mobarak&theme=dark&hide_border=false" height="150" />
+<br/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmad-Mobarak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmad-mobarak&theme=tokyonight" alt="Trophies" />
-  </a>
-</p>
+</div>
+
 
 ---
 
